@@ -1,6 +1,9 @@
 # HappyVirus.py
 # Created by Jethro Swanson and Jordon Hong
 # 30/03/2022
+# Purpose: Does various comical things such as changing the users background, creating a large number of files filled with semi-motivational quotes
+# on the users desktop and in the file where the virus is, opening happy songs in the users browser, and playing harsh beeps to keep the users focus
+# on the stuff the program is doing.
 
 import ctypes
 import os
