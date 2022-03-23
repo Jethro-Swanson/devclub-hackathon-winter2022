@@ -1,6 +1,6 @@
 # devclub-hackathon-winter2022
 
- Description: HappyVirus.py is a Hackathon project created over part of a weekend. It does several
+ Description: HappyVirus.py is a Hackathon project created over part of a weekend and won the "Original Hack" catagory at the event. It does several
  mildly comical things such as changing the users background, creating semi-motivational files on
  the users desktop, opening happy songs on youtube, and playing harsh beeps to keep the user focused
  on the screen while this happens.
